@@ -6,7 +6,7 @@ module.exports = {
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:prettier/recommended",
-    "eslint-config-prettier"
+    "eslint-config-prettier",
   ],
   plugins: ["@typescript-eslint", "react"],
   parser: "@typescript-eslint/parser",
@@ -33,5 +33,7 @@ module.exports = {
   },
   rules: {
     // 必要に応じてルールを追加
+    "react/prop-types": "off",
+    "react/react-in-jsx-scope": "off",
   },
 };

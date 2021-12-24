@@ -7,15 +7,13 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "lint": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .gitignore ."
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .gitignore .",
+    "format": "prettier --write --ignore-path .gitignore './**/*.{js,jsx,ts,tsx}'"
   },
   "dependencies": {
-    "autoprefixer": "^10.1.0",
     "next": "12.0.7",
-    "postcss": "^8.2.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "tailwindcss": "^2.0.1"
+    "react-dom": "17.0.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.12",
@@ -27,8 +25,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
-    "postcss-preset-env": "^6.7.0",
-    "prettier": "2.5.1",
+    "prettier": "^2.5.1",
     "typescript": "^4.1.2"
   }
 }
