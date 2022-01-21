@@ -13,13 +13,13 @@ type Props = {
 }
 
 const Index = ({ allPosts }: Props) => {
-  const heroPost = allPosts[0]
+  const heroPost = allPosts.find((p)=> p.slug === 'about')
   const morePosts = allPosts.slice(1)
   return (
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>みそかつウェブ</title>
         </Head>
         <Container>
           <Intro />
