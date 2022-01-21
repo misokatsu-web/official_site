@@ -12,5 +12,6 @@ ogImage:
 
 - ・ [connpass](https://misokatsu-web.connpass.com/)
 - ・ [Twitter](https://twitter.com/misokatsu_web?t=5fKW5UQnjFSFj1gbUXjpCw&s=09)
+- ・ [Spotify](https://open.spotify.com/show/1YLkMR0qaLS0MylslDioSZ)
 - ・ [Slack](https://miso-katsu-web.slack.com/join/shared_invite/zt-nvsgen9i-mYzeIqLMz4R7Xw~apXuBgw#/shared-invite/email)
 - ・ [note](https://note.com/asashin227/m/m2726899db499)
