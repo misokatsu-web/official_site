@@ -2,12 +2,12 @@
 title: '活動履歴'
 excerpt: '2020年から始まった、みそカツWebの活動について紹介します。'
 coverImage: '/assets/blog/preview/cover.jpg'
-date: '2022-01-21T05:35:07.322Z'
+date: '2022-01-21T06:35:07.322Z'
 author:
   name: asashin227
   picture: 'https://pbs.twimg.com/profile_images/847062939609686017/a5iTanEo_400x400.jpg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/misokatsu-web.png'
 ---
 ## みそかつモバイル #1
 開催日時：2021/09/10（金） 19:00〜
