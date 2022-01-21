@@ -1,13 +1,13 @@
 ---
 title: 'みそかつウェブとは'
 excerpt: 'みそかつウェブは名古屋のウェブエンジニアによる技術コミュニティです。'
-coverImage: '/assets/blog/about/misokatsu-web.png'
+coverImage: '/assets/misokatsu-web.png'
 date: '2021-01-21T05:35:07.322Z'
 author:
   name: moai
   picture: 'https://pbs.twimg.com/profile_images/1449636439952556040/cZbRNgK3_400x400.jpg'
 ogImage:
-  url: '/assets/blog/about/misokatsu-web.png'
+  url: '/assets/misokatsu-web.png'
 ---
 
 
