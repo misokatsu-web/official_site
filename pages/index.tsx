@@ -13,7 +13,7 @@ type Props = {
 
 const Index = ({ allPosts }: Props) => {
   const heroPost = allPosts.find((p)=> p.slug === 'about')
-  const morePosts = allPosts.slice(1)
+  const morePosts = allPosts
   return (
     <>
       <Layout>
