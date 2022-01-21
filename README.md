@@ -5,5 +5,5 @@ Next.jsで作られています。
 
 ## deploy
 
-master branchにmergeすると `https://miso-katsu.web.app/` にdeployされます。
+master branchにmergeすると [https://miso-katsu.web.app/](https://miso-katsu.web.app/) にdeployされます。
 
