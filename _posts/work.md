@@ -10,7 +10,10 @@ ogImage:
   url: '/assets/misokatsu-web.png'
 ---
 
-2年間で10回のイベントを開催できました
+名古屋を拠点にエンジニアコミュニティを運営しようと意気投合し、
+おかげさまで2年間で10回のイベントを開催できました。
+これからもみそカツWebをよろしくお願いします。
+
 ## [みそかつモバイル #1](https://misokatsu-web.connpass.com/event/221035/)
 開催日時：2021/09/10（金） 19:00〜
 
@@ -18,13 +21,13 @@ ogImage:
 開催日時：2021/06/04（金） 19:00〜
 
 ## [Around Firebase #1](https://misokatsu-web.connpass.com/event/198869/)
-開催日時：2021/02/22（月） 19:00〜
+開催日時：2021/03/26（金） 19:00〜
 
 ## [Misokatsu.rb #1](https://misokatsu-web.connpass.com/event/198867/)
-開催日時：2021/02/12（金） 20:00〜
+開催日時：2021/02/22（月） 19:00〜
 
 ## [みそかつウェブ運営会議](https://misokatsu-web.connpass.com/event/202546/)
-開催日時：2020/02/29（土） 16:30〜
+開催日時：2021/02/12（金） 20:00〜
 
 ## [React Night #1](https://misokatsu-web.connpass.com/event/196285/)
 開催日時：2021/01/25（月） 19:00〜
