@@ -1,6 +1,6 @@
 ---
 title: '活動履歴'
-excerpt: '2020年から始まった、みそカツWebの活動について紹介します。'
+excerpt: '2020年から始まった、みそかつWebの活動について紹介します。'
 coverImage: '/assets/misokatsu-web.png'
 date: '2022-01-21T06:35:07.322Z'
 author:
