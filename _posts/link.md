@@ -1,13 +1,13 @@
 ---
 title: 'リンク集'
 excerpt: 'SNSなどのリンク集です'
-coverImage: '/assets/blog/link/みそかつウェブロゴ.png'
+coverImage: '/assets/misokatsu-web.png'
 date: '2022-01-21'
 author:
   name: Yuki Amakawa
   picture: '/assets/blog/authors/amakawa.jpeg'
 ogImage:
-  url: '/assets/blog/link/みそかつウェブロゴ.png'
+  url: '/assets/misokatsu-web.png'
 ---
 
 - ・ [connpass](https://misokatsu-web.connpass.com/)
