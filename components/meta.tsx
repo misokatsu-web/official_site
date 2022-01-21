@@ -33,10 +33,9 @@ const Meta = () => {
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
-        name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        name='description'
+        content={'名古屋という土地を生かし、エンジニア＆デザイナーコミュニティを盛り上げるため、 IT業界に関わる人同士の交流の場として活動しています。似た境遇の仲間を探したり、相談できる友人を作ったり ITというキーワードで繋がれるコミュニティです。'}
       />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
   )
 }
